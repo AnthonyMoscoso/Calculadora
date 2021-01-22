@@ -128,6 +128,7 @@
     <Content Include="Model\DbCalculadora.edmx.diagram">
       <DependentUpon>DbCalculadora.edmx</DependentUpon>
     </Content>
+    <Content Include="Enunciado\Caso práctico final_Enunciado %281%29.docx" />
     <None Include="packages.config" />
     <Content Include="scripts\powerbi.js.map" />
     <None Include="Web.Debug.config">
